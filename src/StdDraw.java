@@ -1,4 +1,3 @@
-package edu.princeton;
 /******************************************************************************
  *  Compilation:  javac StdDraw.java
  *  Execution:    java StdDraw

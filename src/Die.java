@@ -1,4 +1,3 @@
-package edu.wiu.cs250;
 import java.util.Random;
 /*
    @author Jason Covert
